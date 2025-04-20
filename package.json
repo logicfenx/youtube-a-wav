@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/youtube-a-wav",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a youtube-a-wav",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/youtube-a-wav.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/youtube-a-wav/"
+    },
+    "homepage": "https://isproto.com/youtube-a-wav/"
+}
